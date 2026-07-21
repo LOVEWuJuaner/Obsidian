@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "d9b8941c97d84409",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e6079366b3117ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "010d8fd479e810f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R2Gen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "R2Gen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0149ef7238fd10c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cf9ac0bcc60eb81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "956d05af032bf7c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d3988d93168e9b7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2a7554ec68dff3f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cf9a78e9accfec83",
+    "type": "split",
+    "children": [
+      {
+        "id": "389e05974bbc08f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e420712da5f5d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R2Gen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "R2Gen 的反向链接列表"
+            }
+          },
+          {
+            "id": "13191198c7bb39af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ConVIRT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ConVIRT 的出链列表"
+            }
+          },
+          {
+            "id": "b214f9aac6a8e119",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "25ca8cdb448f5e0a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f8cbefff9db1225f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ConVIRT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ConVIRT 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "docx-exporter:导出当前笔记为 DOCX": false
+    }
+  },
+  "active": "956d05af032bf7c3",
+  "lastOpenFiles": [
+    "2026-07-13.md",
+    "R2Gen.md",
+    "未命名.base",
+    "instruction/内容模板 Why not What.md",
+    "instruction/How to read an article？.md",
+    "MedCLIP.md",
+    "InstructBLIP.md",
+    "InstructBLIP 1.pdf",
+    "InstructBLIP.pdf",
+    "BioMedCLIP.md",
+    "PDF/MedKLIP（知识增强）.pdf",
+    "MedKLIP.md",
+    "PDF/BiomedCLIP大规模模型.pdf",
+    "BLIP-2.md",
+    "BLIP-2.pdf",
+    "PDF/BioViL.pdf",
+    "BioViL.md",
+    "PDF/MEdCLIP（数据增强）.pdf",
+    "PDF/BLIP.pdf",
+    "BLIP.md",
+    "CLIP.md",
+    "PDF/CLIP原始论文.pdf",
+    "GLoRIA.md",
+    "ConVIRT.md",
+    "秦宇航-0626-论文阅读.md",
+    "0626汇总.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "PNG/MedCLIP原理图.png",
+    "欢迎.md",
+    "创建链接.md"
+  ]
+}

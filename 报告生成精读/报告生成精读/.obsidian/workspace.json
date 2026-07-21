@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "84543fb02d9db3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "940f62344d5ba85d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8d5a27f4606e95c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d551b9a49bd0182",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab6e064b505eaf58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7b78259a01bffc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c4d4de11320559f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ea8ac71f861d7785",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5bee4143b7f19159",
+    "type": "split",
+    "children": [
+      {
+        "id": "40ef4e98844218ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "346ca63119513408",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Generating Radiology Reports via Memory-driven Transformer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Generating Radiology Reports via Memory-driven Transformer 的反向链接列表"
+            }
+          },
+          {
+            "id": "d80efdcb74fa8e2f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Generating Radiology Reports via Memory-driven Transformer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Generating Radiology Reports via Memory-driven Transformer 的出链列表"
+            }
+          },
+          {
+            "id": "79e45d40c6a4b6de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "75707299ae63feac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "69b96489d1edf3bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Generating Radiology Reports via Memory-driven Transformer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Generating Radiology Reports via Memory-driven Transformer 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "b7b78259a01bffc0",
+  "lastOpenFiles": [
+    "未命名.base",
+    "未命名.canvas",
+    "R2Gen/Generating Radiology Reports via Memory-driven Transformer.md",
+    "欢迎.md",
+    "R2Gen",
+    "R2Gen/R2Gen.pdf",
+    "R2Gen/Pasted image 20260713213710.png",
+    "R2Gen/Pasted image 20260715145743.png",
+    "R2Gen/Pasted image 20260715121214.png",
+    "R2Gen/Pasted image 20260715115216.png",
+    "R2Gen/Pasted image 20260714183706.png",
+    "R2Gen/Pasted image 20260714183636.png",
+    "Pasted image 20260714182049.png",
+    "R2Gen/Pasted image 20260714171621.png",
+    "R2Gen/Pasted image 20260714163902.png",
+    "R2Gen/Pasted image 20260714105807.png",
+    "未命名.md"
+  ]
+}
