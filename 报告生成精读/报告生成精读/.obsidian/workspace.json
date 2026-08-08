@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "940f62344d5ba85d",
+        "id": "2f66c2fbefe652d2",
         "type": "tabs",
         "children": [
           {
-            "id": "a8d5a27f4606e95c",
+            "id": "9c2aea7f9a683cf9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "REVTAF/Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -74,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5bee4143b7f19159",
@@ -179,24 +186,33 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b7b78259a01bffc0",
+  "active": "9c2aea7f9a683cf9",
   "lastOpenFiles": [
+    "REVTAF/REVTAF.pdf",
+    "多模态RAG综述/Pasted image 20260805151431.png",
+    "多模态RAG综述/Pasted image 20260805144607.png",
+    "REVTAF/Pasted image 20260805211610.png",
+    "检索增强学习纲领.md",
+    "REVTAF/Pasted image 20260805220655.png",
+    "R2Gen/R2Gen.pdf",
+    "R2Gen/Generating Radiology Reports via Memory-driven Transformer.md",
+    "REVTAF/Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation.md",
+    "多模态RAG综述/A Survey on Multimodal Retrieval-Augmented Generation（2025）.md",
+    "REVTAF",
+    "ARRG综述/Automatic radiology report generation： a systematic review  of emerging AI architectures and multimodal technologies.md",
+    "ARRG综述/报告生成综述.pdf",
+    "多模态RAG综述",
+    "ARRG综述/Pasted image 20260804172333.png",
+    "ARRG综述/Pasted image 20260804171757.png",
+    "ARRG综述/Pasted image 20260804171410.png",
+    "ARRG综述/Pasted image 20260804170143.png",
+    "ARRG综述/Pasted image 20260804165304.png",
+    "ARRG综述/屏幕截图 2026-08-04 162546.png",
+    "ARRG综述",
+    "encoder-decoder代码.md",
     "未命名.base",
     "未命名.canvas",
-    "R2Gen/Generating Radiology Reports via Memory-driven Transformer.md",
     "欢迎.md",
-    "R2Gen",
-    "R2Gen/R2Gen.pdf",
-    "R2Gen/Pasted image 20260713213710.png",
-    "R2Gen/Pasted image 20260715145743.png",
-    "R2Gen/Pasted image 20260715121214.png",
-    "R2Gen/Pasted image 20260715115216.png",
-    "R2Gen/Pasted image 20260714183706.png",
-    "R2Gen/Pasted image 20260714183636.png",
-    "Pasted image 20260714182049.png",
-    "R2Gen/Pasted image 20260714171621.png",
-    "R2Gen/Pasted image 20260714163902.png",
-    "R2Gen/Pasted image 20260714105807.png",
-    "未命名.md"
+    "R2Gen"
   ]
 }

@@ -11,14 +11,12 @@
             "id": "010d8fd479e810f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "R2Gen.md",
-                "mode": "source",
-                "source": false
+                "file": "PDF/MedKLIP（知识增强）.pdf"
               },
-              "icon": "lucide-file",
-              "title": "R2Gen"
+              "icon": "lucide-file-text",
+              "title": "MedKLIP（知识增强）"
             }
           }
         ]
@@ -41,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -184,26 +184,26 @@
       "docx-exporter:导出当前笔记为 DOCX": false
     }
   },
-  "active": "956d05af032bf7c3",
+  "active": "010d8fd479e810f9",
   "lastOpenFiles": [
-    "2026-07-13.md",
+    "MedKLIP.md",
+    "PDF/MEdCLIP（数据增强）.pdf",
+    "MedCLIP.md",
     "R2Gen.md",
+    "2026-07-13.md",
     "未命名.base",
     "instruction/内容模板 Why not What.md",
     "instruction/How to read an article？.md",
-    "MedCLIP.md",
     "InstructBLIP.md",
     "InstructBLIP 1.pdf",
     "InstructBLIP.pdf",
     "BioMedCLIP.md",
     "PDF/MedKLIP（知识增强）.pdf",
-    "MedKLIP.md",
     "PDF/BiomedCLIP大规模模型.pdf",
     "BLIP-2.md",
     "BLIP-2.pdf",
     "PDF/BioViL.pdf",
     "BioViL.md",
-    "PDF/MEdCLIP（数据增强）.pdf",
     "PDF/BLIP.pdf",
     "BLIP.md",
     "CLIP.md",
